@@ -1,2 +1,2 @@
 # shocker
-PySpark extension for dataframe keys and DAG for relation algebra operators.
+PySpark extension for dataframe keys and relation algebra DAGs.

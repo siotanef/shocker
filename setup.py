@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 
 setup(
     name='shocker',
-    version='0.1.0',
-    description='PySpark extension for relation algebra operators and dataframe keys.',
+    version='0.1.1',
+    description='PySpark extension for dataframe keys and relation algebra DAGs',
     author='Fabio Siotane',
     author_email='siotanef@proton.me',
     packages=find_packages(where='src'),
